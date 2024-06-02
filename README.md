@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code">
-  <img src="https://img.shields.io/badge/-Hono.js-FF2D20?logo=javascript&logoColor=white&style=for-the-badge" alt="Hono.js">
+  <img src="https://img.shields.io/badge/-Hono-FF2D20?logo=hono&logoColor=white&style=for-the-badge" alt="Hono">
   <img src="https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white&style=for-the-badge" alt="Bun">
 </p>
 
