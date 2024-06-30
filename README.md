@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/Adryan-21"><img src="https://img.shields.io/github/followers/Adryan-21?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?label=Follow&style=social" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://x.com/Adryan_215"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?label=Follow&style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/adrian-rogowski-31a78a211/"><img src="https://img.shields.io/badge/-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -16,7 +16,6 @@
 
 - 🎓 I’m a Front-end Engineer
 - 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **small projects**
 - 📫 How to reach me **adrianrogowski80@gmail.com**
 
 ---
