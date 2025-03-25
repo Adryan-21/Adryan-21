@@ -15,7 +15,6 @@
 ## 🚀 About Me
 
 - 🎓 I’m a Front-end Engineer
-- 🌱 I’m currently learning **React**
 - 📫 How to reach me **adrianrogowski80@gmail.com**
 
 ---
